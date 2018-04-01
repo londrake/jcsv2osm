@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="jcsv2osm">
+<node id="-1" lat="40.746586" lon="17.337191000000004">
+<tag k="id" v="187"/>
+<tag k="name" v="Masseria Aprile"/>
+<tag k="place" v="hamlet"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=187&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=186&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=25&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=188&amp;locale=it_IT"/>
+</node>
+<node id="-2" lat="40.80833330000001" lon="17.1855556">
+<tag k="id" v="967"/>
+<tag k="name" v="Masseria I Monti - Esterno"/>
+<tag k="place" v="hamlet"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=967&amp;locale=it_IT"/>
+</node>
+<node id="-3" lat="41.221437" lon="16.468731">
+<tag k="id" v="944"/>
+<tag k="name" v="Masseria San Felice"/>
+<tag k="place" v="hamlet"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=944&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=943&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=947&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=945&amp;locale=it_IT"/>
+</node>
+<node id="-4" lat="41.162752" lon="16.511281">
+<tag k="id" v="937"/>
+<tag k="name" v="Masseria Torre Villotta"/>
+<tag k="place" v="hamlet"/>
+<tag k="man_made" v="tower"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=937&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=935&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=938&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=942&amp;locale=it_IT"/>
+</node>
+<node id="-5" lat="40.80833330000001" lon="17.1855556">
+<tag k="id" v="961"/>
+<tag k="name" v="Santa Maria di Barsento"/>
+<tag k="building" v="church"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=961&amp;locale=it_IT"/>
+<tag k="website" v="http://www.pugliadigitallibrary.it/item.jsp?id=960&amp;locale=it_IT"/>
+</node>
+</osm>

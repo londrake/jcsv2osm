@@ -1,0 +1,92 @@
+04-01 09:52 root         INFO     INFO: A DETAILED FILE IS AVAIBLE IN ROOT FOLDER.
+04-01 09:52 root         INFO     OPENING SETTINGS FILE 'settings.json'
+04-01 09:52 root         INFO     SETTINGS FILE 'settings.json' FOUND!. IMPORTING PARAMETERS...
+04-01 09:52 root         INFO     Directory 'output' FOUND.
+04-01 09:52 root         ERROR    File 'output/masserie_clean_csv/masserie_clean.csv_nodes_temp.json' NOT FOUND.
+04-01 09:52 root         INFO     TEMP FILE NOT FOUND
+04-01 09:52 root         INFO     Directory 'output/masserie_clean_csv/' FOUND.
+04-01 09:52 root         INFO     File csv 'masserie_clean.csv' aperto correttamente.
+04-01 09:52 root         INFO     Configuration file 'caption.json' FOUND.
+04-01 09:52 root         INFO     Dictionary file 'dictionary.json' FOUND.
+04-01 09:52 root         INFO     Reading CSV file...
+04-01 09:52 root         INFO     Checking HEADER'S FIELD... 
+
+04-01 09:52 root         INFO     HEADER FOUND: Identificativo risorsa digitale => id.
+04-01 09:52 root         INFO     HEADER FOUND: Titolo del bene rappresentato => name.
+04-01 09:52 root         INFO     HEADER FOUND: Categoria_1 =>  on that field dictionary will be used.
+04-01 09:52 root         INFO     HEADER FOUND: Categoria_2 =>  on that field dictionary will be used.
+04-01 09:52 root         INFO     HEADER FOUND: Latitudine => latitude.
+04-01 09:52 root         INFO     HEADER FOUND: Longitudine => longitude.
+04-01 09:52 root         INFO     HEADER FOUND: Scheda Puglia Digital Library => website.
+04-01 09:52 root         INFO     
+04-01 09:52 root         INFO     HEADER'S FIELD Check: DONE with success! 
+
+04-01 09:52 root         INFO     >>>>>>>>>> RECORD 1 <<<<<<<<<< 
+
+04-01 09:52 root         INFO     Identificativo risorsa digitale => id = 187.
+04-01 09:52 root         INFO     Titolo del bene rappresentato => name = Masseria Aprile.
+04-01 09:52 root         INFO     [DICTIONARY] Checking if  MASSERIA is in Dictionary >> dictionary.json
+04-01 09:52 root         INFO     [DICTIONARY] Matching found! >>  MASSERIA  matches @ 100.0% the word in dictionary MASSERIA.
+04-01 09:52 root         INFO     Categoria_1 => place = hamlet.
+04-01 09:52 root         INFO     Latitudine => latitude = 40.746586.
+04-01 09:52 root         INFO     Longitudine => longitude = 17.337191.
+04-01 09:52 root         INFO     Scheda Puglia Digital Library => website = http://www.pugliadigitallibrary.it/item.jsp?id=187&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=186&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=25&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=188&locale=it_IT.
+04-01 09:52 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 09:52 root         INFO     >>>>>>>>>> RECORD 2 <<<<<<<<<< 
+
+04-01 09:52 root         INFO     Identificativo risorsa digitale => id = 967.
+04-01 09:52 root         INFO     Titolo del bene rappresentato => name = Masseria I Monti - Esterno.
+04-01 09:52 root         INFO     [DICTIONARY] Checking if  MASSERIA is in Dictionary >> dictionary.json
+04-01 09:52 root         INFO     [DICTIONARY] Matching found! >>  MASSERIA  matches @ 100.0% the word in dictionary MASSERIA.
+04-01 09:52 root         INFO     Categoria_1 => place = hamlet.
+04-01 09:52 root         INFO     Latitudine => latitude = 40.8083333.
+04-01 09:52 root         INFO     Longitudine => longitude = 17.1855556.
+04-01 09:52 root         INFO     Scheda Puglia Digital Library => website = http://www.pugliadigitallibrary.it/item.jsp?id=967&locale=it_IT.
+04-01 09:52 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 09:52 root         INFO     >>>>>>>>>> RECORD 3 <<<<<<<<<< 
+
+04-01 09:52 root         INFO     Identificativo risorsa digitale => id = 944.
+04-01 09:52 root         INFO     Titolo del bene rappresentato => name = Masseria San Felice.
+04-01 09:52 root         INFO     [DICTIONARY] Checking if  MASSERIA is in Dictionary >> dictionary.json
+04-01 09:52 root         INFO     [DICTIONARY] Matching found! >>  MASSERIA  matches @ 100.0% the word in dictionary MASSERIA.
+04-01 09:52 root         INFO     Categoria_1 => place = hamlet.
+04-01 09:52 root         INFO     Latitudine => latitude = 41.221437.
+04-01 09:52 root         INFO     Longitudine => longitude = 16.468731.
+04-01 09:52 root         INFO     Scheda Puglia Digital Library => website = http://www.pugliadigitallibrary.it/item.jsp?id=944&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=943&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=947&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=945&locale=it_IT.
+04-01 09:52 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 09:52 root         INFO     >>>>>>>>>> RECORD 4 <<<<<<<<<< 
+
+04-01 09:52 root         INFO     Identificativo risorsa digitale => id = 937.
+04-01 09:52 root         INFO     Titolo del bene rappresentato => name = Masseria Torre Villotta.
+04-01 09:52 root         INFO     [DICTIONARY] Checking if  MASSERIA is in Dictionary >> dictionary.json
+04-01 09:52 root         INFO     [DICTIONARY] Matching found! >>  MASSERIA  matches @ 100.0% the word in dictionary MASSERIA.
+04-01 09:52 root         INFO     Categoria_1 => place = hamlet.
+04-01 09:52 root         INFO     [DICTIONARY] Checking if  TORRE is in Dictionary >> dictionary.json
+04-01 09:52 root         INFO     [DICTIONARY] Matching found! >>  TORRE  matches @ 80.0% the word in dictionary TORRI.
+04-01 09:52 root         INFO     Categoria_2 => man_made = tower.
+04-01 09:52 root         INFO     Latitudine => latitude = 41.162752.
+04-01 09:52 root         INFO     Longitudine => longitude = 16.511281.
+04-01 09:52 root         INFO     Scheda Puglia Digital Library => website = http://www.pugliadigitallibrary.it/item.jsp?id=937&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=935&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=938&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=942&locale=it_IT.
+04-01 09:52 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 09:52 root         INFO     >>>>>>>>>> RECORD 5 <<<<<<<<<< 
+
+04-01 09:52 root         INFO     Identificativo risorsa digitale => id = 961.
+04-01 09:52 root         INFO     Titolo del bene rappresentato => name = Santa Maria di Barsento.
+04-01 09:52 root         INFO     [DICTIONARY] Checking if  CHIESA is in Dictionary >> dictionary.json
+04-01 09:52 root         INFO     [DICTIONARY] Matching found! >>  CHIESA  matches @ 100.0% the word in dictionary CHIESA.
+04-01 09:52 root         INFO     Categoria_1 => building = church.
+04-01 09:52 root         INFO     Latitudine => latitude = 40.8083333.
+04-01 09:52 root         INFO     Longitudine => longitude = 17.1855556.
+04-01 09:52 root         INFO     Scheda Puglia Digital Library => website = http://www.pugliadigitallibrary.it/item.jsp?id=961&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=960&locale=it_IT.
+04-01 09:52 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 09:52 root         INFO     Writing Json file for complete record
+04-01 09:52 root         INFO     Done.
+04-01 09:52 root         INFO     Writing csv2osm file with complete record
+04-01 09:52 root         INFO     Done.
+04-01 09:52 root         INFO     Writing osm file with complete record
+04-01 09:52 root         INFO     Done.

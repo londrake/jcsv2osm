@@ -1,0 +1,52 @@
+04-01 12:55 root         INFO     INFO: A DETAILED FILE IS AVAIBLE IN ROOT FOLDER.
+04-01 12:55 root         INFO     OPENING SETTINGS FILE 'settings.json'
+04-01 12:55 root         INFO     SETTINGS FILE 'settings.json' FOUND!. IMPORTING PARAMETERS...
+04-01 12:55 root         INFO     Directory 'output' FOUND.
+04-01 12:55 root         INFO     Directory 'output/test_csv/' FOUND.
+04-01 12:55 root         INFO     An old session have been found.  Continue? [y/n] >>>
+04-01 12:55 root         INFO     Configuration file 'caption.json' FOUND.
+04-01 12:55 root         INFO     Dictionary file 'dictionary.json' FOUND.
+04-01 12:55 root         INFO     Reading JSON TEMP FILE file...
+04-01 12:55 root         INFO     Checking HEADER'S FIELD... 
+
+04-01 12:55 root         INFO     HEADER FOUND: id => id.
+04-01 12:55 root         INFO     HEADER FOUND: nomeAttrattore => name.
+04-01 12:55 root         INFO     HEADER FOUND: risorsaTerritoriale =>  on that field dictionary will be used.
+04-01 12:55 root         INFO     HEADER FOUND: latitudine => latitude.
+04-01 12:55 root         INFO     HEADER FOUND: longitudine => longitude.
+04-01 12:55 root         INFO     HEADER FOUND: sitoWeb => website.
+04-01 12:55 root         INFO     
+04-01 12:55 root         INFO     HEADER'S FIELD Check: DONE with success! 
+
+04-01 12:55 root         INFO     2 RECORD TO PROCESS.
+
+04-01 12:55 root         INFO     >>>>>>>>>> RECORD 1 <<<<<<<<<< 
+
+04-01 12:55 root         INFO     id => id = 3998.
+04-01 12:55 root         INFO     nomeAttrattore => name = Grotta di Santa Maria d'Agnano.
+04-01 12:55 root         INFO     [DICTIONARY] Checking if  CHIESE IPOGEE is in Dictionary >> dictionary.json
+04-01 12:55 root         INFO     [DICTIONARY] Matching found! >>  CHIESE IPOGEE  matches @ 100.0% the word in dictionary CHIESE IPOGEE.
+04-01 12:55 root         INFO     risorsaTerritoriale => amenity = place_of_worship.
+04-01 12:55 root         INFO     latitudine => latitude = 40.746586.
+04-01 12:55 root         INFO     longitudine => longitude = 17.546658.
+04-01 12:55 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:55 root         INFO     >>>>>>>>>> RECORD 2 <<<<<<<<<< 
+
+04-01 12:55 root         INFO     id => id = 5039.
+04-01 12:55 root         INFO     nomeAttrattore => name = Teatro Verdi.
+04-01 12:55 root         INFO     [DICTIONARY] Checking if  TEATRI STORICI is in Dictionary >> dictionary.json
+04-01 12:55 root         INFO     [DICTIONARY] No Matching found for ... Teatri storici.
+04-01 12:55 root         INFO     risorsaTerritoriale => name = Teatri storici.
+04-01 12:55 root         INFO     latitudine => latitude = 41.688644.
+04-01 12:55 root         INFO     longitudine => longitude = 15.380736.
+04-01 12:55 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:55 root         INFO     Writing Json file for complete record
+04-01 12:55 root         INFO     Done.
+04-01 12:55 root         INFO     Writing csv2osm file with complete record
+04-01 12:55 root         INFO     Done.
+04-01 12:55 root         INFO     Writing osm file with complete record
+04-01 12:55 root         INFO     Done.
+04-01 12:55 root         INFO     Writing Json file for incomplete record
+04-01 12:55 root         INFO     Done.

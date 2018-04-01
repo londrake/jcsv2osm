@@ -1,0 +1,107 @@
+{
+    "languageDict": "it_IT",
+    "dictionary": [
+        {
+            "it_IT": "categoria",
+            "en_EN": "category",
+            "osm_tag": [
+                {
+                    "k": "key",
+                    "v": "value"
+                },
+                {
+                    "k": "key2",
+                    "v": "value"
+                }
+            ]
+        },
+        {
+            "it_IT": "Chiese e cattedrali",
+            "en_EN": "",
+            "osm_tag": [
+                {
+                    "k": "building",
+                    "v": "church"
+                },
+                {
+                    "k": "building",
+                    "v": "cathedral"
+                }
+            ]
+        },
+        {
+            "it_IT": "Chiese ipogee",
+            "en_EN": "",
+            "osm_tag": [
+                {
+                    "k": "building",
+                    "v": "church"
+                },
+                {
+                    "k": "amenity",
+                    "v": "place_of_worship"
+                }
+            ]
+        },
+        {
+            "it_IT": "Torri",
+            "en_EN": "Old Towers",
+            "osm_tag": [
+                {
+                    "k": "man_made",
+                    "v": "tower"
+                }
+            ]
+        },
+        {
+            "it_IT": "Musei  gallerie e pinacoteche",
+            "en_EN": "museum ",
+            "osm_tag": [
+                {
+                    "k": "tourism",
+                    "v": "museum"
+                }
+            ]
+        },
+        {
+            "it_IT": "Grotte marine",
+            "en_EN": " cavern ",
+            "osm_tag": [
+                {
+                    "k": "natural",
+                    "v": "cave_entrance"
+                }
+            ]
+        },
+        {
+            "it_IT": "Basiliche e santuari",
+            "en_EN": "church ",
+            "osm_tag": [
+                {
+                    "k": "amenity",
+                    "v": "place_of_worship"
+                }
+            ]
+        },
+        {
+            "it_IT": "Masseria",
+            "en_EN": "",
+            "osm_tag": [
+                {
+                    "k": "place",
+                    "v": "hamlet"
+                }
+            ]
+        },
+        {
+            "it_IT": "Chiesa",
+            "en_EN": "",
+            "osm_tag": [
+                {
+                    "k": "building",
+                    "v": "church"
+                }
+            ]
+        }
+    ]
+}

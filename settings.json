@@ -1,0 +1,12 @@
+{
+    "csvFileName":"test.csv",
+    "csvDelimiter": ";",
+    "csvQuote": " ",
+    "dictionaryFileName":"dictionary.json",
+    "captionFileName":"caption.json",
+    "updateDictionary": true,
+    "incompleteRecords": true,
+    "completeRecords": true,
+    "osmfile": true,
+    "csv2osm": true
+}

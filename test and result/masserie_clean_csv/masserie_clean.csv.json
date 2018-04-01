@@ -1,0 +1,43 @@
+[
+    {
+        "id": "187",
+        "name": "Masseria Aprile",
+        "place": "hamlet",
+        "latitude": "40.746586",
+        "longitude": "17.337191",
+        "website": "http://www.pugliadigitallibrary.it/item.jsp?id=187&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=186&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=25&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=188&locale=it_IT"
+    },
+    {
+        "id": "967",
+        "name": "Masseria I Monti - Esterno",
+        "place": "hamlet",
+        "latitude": "40.8083333",
+        "longitude": "17.1855556",
+        "website": "http://www.pugliadigitallibrary.it/item.jsp?id=967&locale=it_IT"
+    },
+    {
+        "id": "944",
+        "name": "Masseria San Felice",
+        "place": "hamlet",
+        "latitude": "41.221437",
+        "longitude": "16.468731",
+        "website": "http://www.pugliadigitallibrary.it/item.jsp?id=944&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=943&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=947&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=945&locale=it_IT"
+    },
+    {
+        "id": "937",
+        "name": "Masseria Torre Villotta",
+        "place": "hamlet",
+        "man_made": "tower",
+        "latitude": "41.162752",
+        "longitude": "16.511281",
+        "website": "http://www.pugliadigitallibrary.it/item.jsp?id=937&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=935&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=938&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=942&locale=it_IT"
+    },
+    {
+        "id": "961",
+        "name": "Santa Maria di Barsento",
+        "building": "church",
+        "latitude": "40.8083333",
+        "longitude": "17.1855556",
+        "website": "http://www.pugliadigitallibrary.it/item.jsp?id=961&locale=it_IT-|-http://www.pugliadigitallibrary.it/item.jsp?id=960&locale=it_IT"
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="jcsv2osm">
+<node id="-1" lat="40.746586" lon="17.546658">
+<tag k="id" v="3998"/>
+<tag k="name" v="Grotta di Santa Maria d'Agnano"/>
+<tag k="building" v="church"/>
+<tag k="amenity" v="place_of_worship"/>
+</node>
+</osm>

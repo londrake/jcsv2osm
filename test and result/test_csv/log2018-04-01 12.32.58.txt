@@ -1,0 +1,140 @@
+04-01 12:32 root         INFO     INFO: A DETAILED FILE IS AVAIBLE IN ROOT FOLDER.
+04-01 12:32 root         INFO     OPENING SETTINGS FILE 'settings.json'
+04-01 12:32 root         INFO     SETTINGS FILE 'settings.json' FOUND!. IMPORTING PARAMETERS...
+04-01 12:32 root         INFO     Directory 'output' FOUND.
+04-01 12:32 root         INFO     Directory 'output/test_csv/' FOUND.
+04-01 12:32 root         INFO     An old session have been found.  Continue? [y/n] >>>
+04-01 12:33 root         INFO     Ignoring old session and opening csv file.
+04-01 12:33 root         INFO     File csv 'test.csv' aperto correttamente.
+04-01 12:33 root         INFO     Configuration file 'caption.json' FOUND.
+04-01 12:33 root         INFO     Dictionary file 'dictionary.json' FOUND.
+04-01 12:33 root         INFO     Reading CSV file...
+04-01 12:33 root         INFO     Checking HEADER'S FIELD... 
+
+04-01 12:33 root         INFO     HEADER FOUND: id => id.
+04-01 12:33 root         INFO     HEADER FOUND: nomeAttrattore => name.
+04-01 12:33 root         INFO     HEADER FOUND: risorsaTerritoriale =>  on that field dictionary will be used.
+04-01 12:33 root         INFO     HEADER FOUND: latitudine => latitude.
+04-01 12:33 root         INFO     HEADER FOUND: longitudine => longitude.
+04-01 12:33 root         INFO     HEADER FOUND: sitoWeb => website.
+04-01 12:33 root         INFO     
+04-01 12:33 root         INFO     HEADER'S FIELD Check: DONE with success! 
+
+04-01 12:33 root         INFO     10 RECORD TO PROCESS.
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 1 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 4641.
+04-01 12:33 root         INFO     nomeAttrattore => name = Cripta Madonna della Favana.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  CHIESE E CATTEDRALI is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  CHIESE E CATTEDRALI  matches @ 100.0% the word in dictionary CHIESE E CATTEDRALI.
+04-01 12:33 root         INFO     risorsaTerritoriale => building = cathedral.
+04-01 12:33 root         INFO     latitudine => latitude = 40.340103.
+04-01 12:33 root         INFO     longitudine => longitude = 17.966026.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 2 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 3998.
+04-01 12:33 root         INFO     nomeAttrattore => name = Grotta di Santa Maria d'Agnano.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  CHIESE IPOGEE is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] No Matching found for ... Chiese ipogee.
+04-01 12:33 root         INFO     risorsaTerritoriale => name = Chiese ipogee.
+04-01 12:33 root         INFO     latitudine => latitude = 40.746586.
+04-01 12:33 root         INFO     longitudine => longitude = 17.546658.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 3 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 5569.
+04-01 12:33 root         INFO     nomeAttrattore => name = Chiesa di San Giovanni Battista.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  CHIESE E CATTEDRALI is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  CHIESE E CATTEDRALI  matches @ 100.0% the word in dictionary CHIESE E CATTEDRALI.
+04-01 12:33 root         INFO     risorsaTerritoriale => building = cathedral.
+04-01 12:33 root         INFO     latitudine => latitude = 39.8388.
+04-01 12:33 root         INFO     longitudine => longitude = 18.336733.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 4 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 171.
+04-01 12:33 root         INFO     nomeAttrattore => name = Museo Civico.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  MUSEI  GALLERIE E PINACOTECHE is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  MUSEI  GALLERIE E PINACOTECHE  matches @ 100.0% the word in dictionary MUSEI  GALLERIE E PINACOTECHE.
+04-01 12:33 root         INFO     risorsaTerritoriale => tourism = museum.
+04-01 12:33 root         INFO     latitudine => latitude = 41.707188.
+04-01 12:33 root         INFO     longitudine => longitude = 16.048439.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 5 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 5039.
+04-01 12:33 root         INFO     nomeAttrattore => name = Teatro Verdi.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  TEATRI STORICI is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] No Matching found for ... Teatri storici.
+04-01 12:33 root         INFO     risorsaTerritoriale => name = Teatri storici.
+04-01 12:33 root         INFO     latitudine => latitude = 41.688644.
+04-01 12:33 root         INFO     longitudine => longitude = 15.380736.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 6 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 4071.
+04-01 12:33 root         INFO     nomeAttrattore => name = Grottone di Manaccora.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  GROTTE MARINE is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  GROTTE MARINE  matches @ 100.0% the word in dictionary GROTTE MARINE.
+04-01 12:33 root         INFO     risorsaTerritoriale => natural = cave_entrance.
+04-01 12:33 root         INFO     latitudine => latitude = 41.94609.
+04-01 12:33 root         INFO     longitudine => longitude = 16.044127.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 7 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 5506.
+04-01 12:33 root         INFO     nomeAttrattore => name = Torre Carnara.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  TORRI is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  TORRI  matches @ 100.0% the word in dictionary TORRI.
+04-01 12:33 root         INFO     risorsaTerritoriale => man_made = tower.
+04-01 12:33 root         INFO     latitudine => latitude = 40.497875.
+04-01 12:33 root         INFO     longitudine => longitude = 17.641918.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 8 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 2062.
+04-01 12:33 root         INFO     nomeAttrattore => name = Grotta calda.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  GROTTE MARINE is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  GROTTE MARINE  matches @ 100.0% the word in dictionary GROTTE MARINE.
+04-01 12:33 root         INFO     risorsaTerritoriale => natural = cave_entrance.
+04-01 12:33 root         INFO     latitudine => latitude = 41.886948.
+04-01 12:33 root         INFO     longitudine => longitude = 16.170225.
+04-01 12:33 root         INFO     sitoWeb => website = www.comunedivieste.it.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 9 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 3841.
+04-01 12:33 root         INFO     nomeAttrattore => name = Convento di Maria SS. della Consolazione.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  BASILICHE E SANTUARI is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  BASILICHE E SANTUARI  matches @ 100.0% the word in dictionary BASILICHE E SANTUARI.
+04-01 12:33 root         INFO     risorsaTerritoriale => amenity = place_of_worship.
+04-01 12:33 root         INFO     latitudine => latitude = 41.212906.
+04-01 12:33 root         INFO     longitudine => longitude = 15.394165.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     >>>>>>>>>> RECORD 10 <<<<<<<<<< 
+
+04-01 12:33 root         INFO     id => id = 2951.
+04-01 12:33 root         INFO     nomeAttrattore => name = Chiesa di San Pietro o di Santa Maria di Crepacore.
+04-01 12:33 root         INFO     [DICTIONARY] Checking if  CHIESE E CATTEDRALI is in Dictionary >> dictionary.json
+04-01 12:33 root         INFO     [DICTIONARY] Matching found! >>  CHIESE E CATTEDRALI  matches @ 100.0% the word in dictionary CHIESE E CATTEDRALI.
+04-01 12:33 root         INFO     risorsaTerritoriale => building = cathedral.
+04-01 12:33 root         INFO     latitudine => latitude = 40.445347.
+04-01 12:33 root         INFO     longitudine => longitude = 17.735382.
+04-01 12:33 root         INFO     >>>>>>>>>> DONE  <<<<<<<<<< 
+
+04-01 12:33 root         INFO     Writing Json file for complete record
+04-01 12:33 root         INFO     Done.
+04-01 12:33 root         INFO     Writing csv2osm file with complete record
+04-01 12:33 root         INFO     Done.
+04-01 12:33 root         INFO     Writing osm file with complete record

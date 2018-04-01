@@ -1,0 +1,32 @@
+[
+        {
+            "label": "id",
+            "header": "id",
+            "useDictionary": false
+        },
+        {
+            "label": "name",
+            "header": "nomeAttrattore",
+            "useDictionary": false
+        },
+        {
+            "label": "",
+            "header": "risorsaTerritoriale",
+            "useDictionary": true
+        },
+        {
+            "label": "latitude",
+            "header": "latitudine",
+            "useDictionary": false
+        },
+        {
+            "label": "longitude",
+            "header": "longitudine",
+            "useDictionary": false
+        },
+        {
+            "label": "website",
+            "header": "sitoWeb",
+            "useDictionary": false
+        }
+    ]

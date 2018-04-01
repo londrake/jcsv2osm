@@ -1,0 +1,15 @@
+{
+    "categoriesNotFound": [
+        "Teatri storici"
+    ],
+    "records": [
+        {
+            "id": "5039",
+            "nomeAttrattore": "Teatro Verdi",
+            "risorsaTerritoriale": "Teatri storici",
+            "latitudine": "41.688644",
+            "longitudine": "15.380736",
+            "sitoWeb": ""
+        }
+    ]
+}
