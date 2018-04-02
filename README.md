@@ -13,6 +13,10 @@ Usage
 	usage: jcsv2osm.py
 	
 	output: output/NameOfCsv/
+								+ NameOfCsv.csv 				# csv2osm compatible file
+								+ NameOfCsv.json 				# json containing processed (success) records
+								+ NameOfCsv_nodes_temp.json 	# json containing processed (incomplete) records
+								+ NameOfCsv.osm					# osm file containing processed (success) records
 
 	Following json are needed:
 	
@@ -24,9 +28,9 @@ Usage
 			"csvQuote": " ",							# String - Describe how value are quoted: "", "\"", "\'"
 			"dictionaryFileName":"dictionary.json", 	# String - Name of Dictionary json
 			"captionFileName":"caption.json",			# String - Name of Headers json
-			"incompleteRecords": true,					# Boolean value - Tell if a json file containing processed (incomplete) record should be saved *
-			"completeRecords": true,					# Boolean value - Tell if a json file containing processed (success) record should be saved
-			"osmfile": true,							# Boolean value - Tell if a osm file containing processed (success) record
+			"incompleteRecords": true,					# Boolean value - Tell if a json file containing processed (incomplete) records should be saved *
+			"completeRecords": true,					# Boolean value - Tell if a json file containing processed (success) records should be saved
+			"osmfile": true,							# Boolean value - Tell if a osm file containing processed (success) records
 			"csv2osm": true								# Boolean value - Tell if a csv file compatible with csv2osm file should be saved
 		}
 	
@@ -89,7 +93,7 @@ Usage
 			for the second column we can't express a unique "label" for every term, but we need to find the right pair of (k,v) associated to each value of category.
 			Assuming that the term is stored in dictionary, "bar" will be converted in "amenity":"bar" (tag which match "bar" in osm) and so on...
 			
-	
+
 	OUTPUT FILE: csvname_nodes_temp.json <incompleteRecords>
 	
 	This file contain records which for some reason have been not correctly processed, such as: no tags found in dictionary when a search occurred.
