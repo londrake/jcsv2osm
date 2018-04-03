@@ -5,7 +5,7 @@ This script import few feature from csv2osm... In any case there is the possibil
 Dependencies:
 
   - Python 3
-  - pyproj (`sudo apt-get install python3-pyproj` on Debian/Ubuntu)
+  - pyproj (`sudo apt-get install python3-pyproj` on Debian/Ubuntu and `pip install pyproj` on Windows)
 
 Usage
 -----
